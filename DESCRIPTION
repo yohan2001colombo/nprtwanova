@@ -1,4 +1,4 @@
-Package: npranov
+Package: npranova
 Title: Kernel Ridge Regression and Visualization
 Version: 0.1.0
 Authors@R: person("Group", "03", email = "amiduyohan@gmail.com", role = c("aut", "cre"))
@@ -7,11 +7,12 @@ Depends: R (>= 4.0)
 Imports:
     kernlab,
     ggplot2,
-    Matrix
+    plotly,
+    ARTool,
+    MASS
 Suggests:
     testthat
 License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
-
