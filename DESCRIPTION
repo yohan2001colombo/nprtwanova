@@ -1,4 +1,4 @@
-Package: npranov
+Package: npranv
 Title: Kernel Ridge Regression and Visualization
 Version: 0.1.0
 Authors@R: person("Group", "03", email = "amiduyohan@gmail.com", role = c("aut", "cre"))
